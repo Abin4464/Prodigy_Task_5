@@ -41,9 +41,6 @@ This repository contains data analysis and visualization projects focused on ide
     ```
 2. Open `prodigy_Task4.ipynb` or `Prodigy_Task5.ipynb` in Jupyter Notebook, JupyterLab, or VS Code.
 
-## 📊 Screenshots
-*(Optional: Add screenshots here for previewing the map and key graphs.)*
-
 ## 📌 Notes
 - All data used is assumed to be anonymized and for educational or training purposes.
 - The notebooks are beginner-friendly and useful for learning Python-based data analysis.
